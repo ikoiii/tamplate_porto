@@ -1,7 +1,7 @@
-import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import ScrollAnimation from "@/components/ui/scroll-animation";
+import { Button } from "../../components/ui/button";
+import { Badge } from "../../components/ui/badge";
+import { Avatar, AvatarFallback, AvatarImage } from "../../components/ui/avatar";
+import ScrollAnimation from "../../components/ui/scroll-animation";
 import { Github, Linkedin, Mail, Download } from "lucide-react";
 import Link from "next/link";
 

@@ -1,6 +1,6 @@
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
-import ScrollAnimation from "@/components/ui/scroll-animation";
+import { Card, CardContent, CardHeader, CardTitle } from "../../components/ui/card";
+import { Badge } from "../../components/ui/badge";
+import ScrollAnimation from "../../components/ui/scroll-animation";
 import {
   Code2,
   Database,

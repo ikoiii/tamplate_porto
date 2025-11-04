@@ -1,9 +1,8 @@
-import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
-import ScrollAnimation from "@/components/ui/scroll-animation";
+import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "../../components/ui/card";
+import { Button } from "../../components/ui/button";
+import { Badge } from "../../components/ui/badge";
+import ScrollAnimation from "../../components/ui/scroll-animation";
 import { ExternalLink, Github, Star } from "lucide-react";
-import Image from "next/image";
 
 const ProjectsSection = () => {
   const projects = [

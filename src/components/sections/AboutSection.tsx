@@ -1,6 +1,6 @@
-import { Card, CardContent } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
-import ScrollAnimation from "@/components/ui/scroll-animation";
+import { Card, CardContent } from "../../components/ui/card";
+import { Badge } from "../../components/ui/badge";
+import ScrollAnimation from "../../components/ui/scroll-animation";
 import { Calendar, MapPin, GraduationCap } from "lucide-react";
 
 const AboutSection = () => {
